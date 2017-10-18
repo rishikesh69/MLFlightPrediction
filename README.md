@@ -1,7 +1,7 @@
 ## Capstone Project – Kiwi.com Flight Delay Prediction:
 
 ### Problem Statement:
-Kiwi.com is a fastest growing online travel booking company in Czech Republic who offers the reimbursement policy to their customers, in case they missed the connection flight because of the first flight got delayed. 
+[Kiwi.com](https://www.kiwi.com/us/) is a fastest growing online travel booking company in Czech Republic who offers the reimbursement policy to their customers, in case they missed the connection flight because of the first flight got delayed. 
 Our goal is to use the historical data of flight departures and predict how much time, a flight is likely to be delayed.
 
 ### Key Challenge:
@@ -10,7 +10,7 @@ Lack of features such as weather information, airport geocodes and handling miss
 
 ### Resolution:
 
-  - Collecting the additional features by using external APIs such as GoogleMaps API and Darksky weather API.
+  - Collecting the additional features by using external APIs such as GoogleMaps API and [Darksky](https://darksky.net/dev) weather API.
   - Analysing the input data and understanding the problem better by brainstorming possible factors that can impact the flight delay time
   - Performing Data exploration techniques which involves identifying numerical and categorical feature, making inferences about data by plotting distribution using visualization tools such as matplotlib and find the irregularities such as missing values and detecting outliers.
   - Imputing the missing observations and treating outliers or extreme values using log transformation techniques.
